@@ -5,8 +5,7 @@ The source code should provide a good working example of how yo use our
 AtalaAnnotationViewer (the WPF version of our AnnotateViewer Winforms control) and 
 our annotations in a WPF application.
 
-This is the VB.NET version of this app. If you're looking for the C# version, you can 
-find it [here](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64).
+This is the VB.NET version of this app. We also have a [C# version](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64) available.  
 
 ## Prerequisites
 This demo assumes you have the Atalasoft DotImage SDK installed and licensed for 
